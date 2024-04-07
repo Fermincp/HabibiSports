@@ -1,11 +1,11 @@
 #EXTM3U  url="https://github.com/Fermincp/HabibiSports/blob/main/HabibiSports.m3u"
-#EXTINF:-1 tvg-id="" tvg-name="THIS IS THE WAY" tvg-logo="https://tenor.com/bpEmY.gif" 
+#EXTINF:-1 tvg-id="" tvg-name="THIS IS THE WAY" tvg-logo="https://tenor.com/bpEmY.gif"
 
-#EXTINF:-1 tvg-id="R. Madrid - M. City X.21:00" tvg-name="R. Madrid - M. City X.21:00" tvg-logo="https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg" group-title="Eventos Champions ",R. Madrid - M. City X.21:00
+#EXTINF:-1 tvg-id="R. Madrid - M. City X.21:00" tvg-name="R. Madrid - M. City X.21:00" tvg-logo="https://clipground.com/images/champions-league-logo-png-7.jpg" group-title="Eventos Champions ",R. Madrid - M. City X.21:00
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 tvg-id="PSG - Barcelona X.21:00" tvg-name="PSG - Barcelona X.21:00" tvg-logo="https://https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg" group-title="Eventos Champions ",PSG - Barcelona X.21:00
+#EXTINF:-1 tvg-id="PSG - Barcelona X.21:00" tvg-name="PSG - Barcelona X.21:00" tvg-logo="https://clipground.com/images/champions-league-logo-png-7.jpg" group-title="Eventos Champions ",PSG - Barcelona X.21:00
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
-#EXTINF:-1 tvg-id="At. Madrid - B. Dortmund X.21:00" tvg-name="At. Madrid - B. Dortmund X.21:00" tvg-logo="https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg" group-title="Eventos Champions ",At. Madrid - B. Dortmund X.21:00
+#EXTINF:-1 tvg-id="At. Madrid - B. Dortmund X.21:00" tvg-name="At. Madrid - B. Dortmund X.21:00" tvg-logo="https://clipground.com/images/champions-league-logo-png-7.jpg" group-title="Eventos Champions ",At. Madrid - B. Dortmund X.21:00
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 
 #EXTINF:-1 tvg-id="Betis - Celta V.21:00" tvg-name="Betis - Celta V.21:00" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="Eventos LaLiga EA ",Betis - Celta V.21:00
@@ -29,6 +29,148 @@ acestream://1960a9be8ae9e8c755330218eac4c5805466290a
 #EXTINF:-1 tvg-id="Osasuna - Valencia L.21:00" tvg-name="Osasuna - Valencia L.21:00" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="Eventos LaLiga EA ",Osasuna - Valencia L.21:00 
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
 
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LaLiga UHD" tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" group-title="M+ LaLiga ",M+ LaLiga UHD
+acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LaLiga 1080P  " tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" group-title="M+ LaLiga ",M+ LaLiga 1080P  
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LaLiga 1080P  " tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" group-title="M+ LaLiga ",M+ LaLiga 1080P  
+acestream://512aeadf50d91603d15b32f1e408166536ec4ac9
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LaLiga 1080 MultiAudio  " tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" group-title="M+ LaLiga ",M+ LaLiga 1080 MultiAudio  
+acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LaLiga 1080 MultiAudio  " tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" group-title="M+ LaLiga ",M+ LaLiga 1080 MultiAudio  
+acestream://1969c27658d4c8333ab2c0670802546121a774a5
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LaLiga " tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" group-title="M+ LaLiga ",M+ LaLiga 
+acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LaLiga " tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" group-title="M+ LaLiga ",M+ LaLiga 1080 
+acestream://1c761eb280cdf43748275e58942914620b0551d4
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LaLiga " tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" group-title="M+ LaLiga ",M+ LaLiga 1080 
+acestream://16acb1d7c7760a7929d79b99f804bdf7a5d7e26b
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LaLiga 720  " tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" group-title="M+ LaLiga ",M+ LaLiga 720  
+acestream://f031f5728b32f6089dda28edebe990cf198108d8
+#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-name="M+ LaLiga 2 1080  " tvg-logo="https://telegra.ph/file/954f096c5f1cb382e50f7.jpg" group-title="M+ LaLiga ",M+ LaLiga 2 1080  
+acestream://26029f72a4ca831d09deefe89534818db1d105bc
+#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-name="M+ LaLiga 2 1080  " tvg-logo="https://telegra.ph/file/954f096c5f1cb382e50f7.jpg" group-title="M+ LaLiga ",M+ LaLiga 2 1080  
+acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
+#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-name="M+ LaLiga 2 1080  " tvg-logo="https://telegra.ph/file/954f096c5f1cb382e50f7.jpg" group-title="M+ LaLiga ",M+ LaLiga 2 1080  
+acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
+#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-name="M+ LaLiga 2 720  " tvg-logo="https://telegra.ph/file/954f096c5f1cb382e50f7.jpg" group-title="M+ LaLiga ",M+ LaLiga 2 720  
+acestream://80126b240f3e4e004754fd8f8103e857ab2556a0
+#EXTINF:-1 tvg-id="M+ LaLiga TV 3 HD" tvg-name="M+ LaLiga 3 1080  " tvg-logo="https://telegra.ph/file/d9a9b3f25fff3ffff3ab5.jpg" group-title="M+ LaLiga ",M+ LaLiga 3 1080  
+acestream://4c4844564313e39a888f593511f299f5ba3cf929
+#EXTINF:-1 tvg-id="M+ LaLiga TV 4" tvg-name="M+ LaLiga 4 1080  " tvg-logo="https://telegra.ph/file/dbf9f93a95f2e1d732098.jpg" group-title="M+ LaLiga ",M+ LaLiga 4 1080  
+acestream://aa8f826da70e27a26b29c7b32402f17e8a67a8b0
+#EXTINF:-1 tvg-id="M+ LaLiga TV 5" tvg-name="M+ LaLiga 5 1080  " tvg-logo="https://telegra.ph/file/2bf2e508d5e905203eae0.jpg" group-title="M+ LaLiga ",M+ LaLiga 5 1080  
+acestream://535394f62a810bc5aeb25be75ea5ff7d03e070b2
+#EXTINF:-1 tvg-id="M+ LaLiga TV 6" tvg-name="M+ LaLiga 6 1080  " tvg-logo="https://telegra.ph/file/1beb547ed9a6f41b3aabc.jpg" group-title="M+ LaLiga ",M+ LaLiga 6 1080  
+acestream://c896d37778f9e43549a788fc22206a655895b51b
+
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LaLiga 1080 MultiAudio  " tvg-logo="https://telegra.ph/file/083da39b90492923b30d4.jpg" group-title="DAZN LaLiga ",DAZN LaLiga 1080 MultiAudio  
+acestream://1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LaLiga 1080 MultiAudio  " tvg-logo="https://telegra.ph/file/083da39b90492923b30d4.jpg" group-title="DAZN LaLiga ",DAZN LaLiga 1080 MultiAudio  
+acestream://75251ba975132ec9a202806ba5bf606e87280c96
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LaLiga 720  " tvg-logo="https://telegra.ph/file/083da39b90492923b30d4.jpg" group-title="DAZN LaLiga ",DAZN LaLiga 720  
+acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LaLiga 2 1080 MultiAudio  " tvg-logo="https://telegra.ph/file/94036fc98a0d900cc62a5.jpg" group-title="DAZN LaLiga ",DAZN LaLiga 2 1080 MultiAudio  
+acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LaLiga 2 1080 MultiAudio  " tvg-logo="https://telegra.ph/file/94036fc98a0d900cc62a5.jpg" group-title="DAZN LaLiga ",DAZN LaLiga 2 1080 MultiAudio  
+acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LaLiga 2 720 MultiAudio  " tvg-logo="https://telegra.ph/file/94036fc98a0d900cc62a5.jpg" group-title="DAZN LaLiga ",DAZN LaLiga 2 720 MultiAudio  
+acestream://0950c37fe1ea817fc561c611ae943d58505f7a79
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LaLiga 2 720 MultiAudio  " tvg-logo="https://telegra.ph/file/94036fc98a0d900cc62a5.jpg" group-title="DAZN LaLiga ",DAZN LaLiga 2 720 MultiAudio  
+acestream://93d663e92a93845b11c9831885646fa39ba1ed66
+#EXTINF:-1 tvg-id="DAZN LaLiga 3 HD" tvg-name="DAZN LaLiga 3 1080 MultiAudio  " tvg-logo="https://telegra.ph/file/0693ac4e4edc2485672af.jpg" group-title="DAZN LaLiga ",DAZN LaLiga 3 1080 MultiAudio  
+acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74
+#EXTINF:-1 tvg-id="DAZN LaLiga 4 HD" tvg-name="DAZN LaLiga 4 1080 MultiAudio  " tvg-logo="https://telegra.ph/file/58cbca971f554effdfba8.jpg" group-title="DAZN LaLiga ",DAZN LaLiga 4 1080 MultiAudio  
+acestream://2792a8a5f4a3f53cd72dec377a2639cd12a6973e
+#EXTINF:-1 tvg-id="DAZN LaLiga 5 HD" tvg-name="DAZN LaLiga 5 1080 MultiAudio  " tvg-logo="https://telegra.ph/file/be7e3f2a10da528ba5e38.jpg" group-title="DAZN LaLiga ",DAZN LaLiga 5 1080 MultiAudio  
+
+acestream://99e544cddbee13798e854c1009ee7d1a93fdedf7
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="ML Campeones 1080 MultiAudio  " tvg-logo="https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg" group-title="M+ Champions ",ML Campeones 1080 MultiAudio  
+acestream://931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="ML Campeones 1080 MultiAudio  " tvg-logo="https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg" group-title="M+ Champions ",ML Campeones 1080 MultiAudio  
+acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="ML Campeones 1080P  " tvg-logo="https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg" group-title="M+ Champions ",ML Campeones 1080P  
+acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="ML Campeones 720  " tvg-logo="https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg" group-title="M+ Champions ",ML Campeones 720  
+acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="ML Campeones 2 1080  " tvg-logo="https://telegra.ph/file/388cb7e9c2c35b3e2b2a3.jpg" group-title="M+ Champions ",ML Campeones 2 1080  
+acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="ML Campeones 2 720  " tvg-logo="https://telegra.ph/file/388cb7e9c2c35b3e2b2a3.jpg" group-title="M+ Champions ",ML Campeones 2 720  
+acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="ML Campeones 3 1080  " tvg-logo="https://telegra.ph/file/e4c5995e20c06f7fd036f.jpg" group-title="M+ Champions ",ML Campeones 3 1080  
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="ML Campeones 3 720  " tvg-logo="https://telegra.ph/file/e4c5995e20c06f7fd036f.jpg" group-title="M+ Champions ",ML Campeones 3 720  
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-name="ML Campeones 4 1080  " tvg-logo="https://telegra.ph/file/ed5ff4d4af1b41089bf63.jpg" group-title="M+ Champions ",ML Campeones 4 1080  
+acestream://1b48d5881337c87b89e1edefff6688fe2271d222
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-name="ML Campeones 4 1080  " tvg-logo="https://telegra.ph/file/ed5ff4d4af1b41089bf63.jpg" group-title="M+ Champions ",ML Campeones 4 1080  
+acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="ML Campeones 5 1080  " tvg-logo="https://telegra.ph/file/f70ec8ceea100f7cc16d3.jpg" group-title="M+ Champions ",ML Campeones 5 1080  
+acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="ML Campeones 5 1080  " tvg-logo="https://telegra.ph/file/f70ec8ceea100f7cc16d3.jpg" group-title="M+ Champions ",ML Campeones 5 1080  
+acestream://67b353ab1c4c2f6396b3ca5c4b45023bd9927561
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 6" tvg-name="ML Campeones 6 1080  " tvg-logo="https://telegra.ph/file/973fa621597f93bf3ada4.jpg" group-title="M+ Champions ",ML Campeones 6 1080  
+acestream://a0978a100de9a307c12d395d9b2f4142db6ab52d
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 6" tvg-name="ML Campeones 6 1080  " tvg-logo="https://telegra.ph/file/973fa621597f93bf3ada4.jpg" group-title="M+ Champions ",ML Campeones 6 1080  
+acestream://64a9353032efa2acb093d0bb86481f20f482d47e
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-name="ML Campeones 7 1080  " tvg-logo="https://telegra.ph/file/0059fad5e9fb7248810ca.jpg" group-title="M+ Champions ",ML Campeones 7 1080  
+acestream://5932623d2fd7ed16b01787251b418e4f59a01cda
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 8" tvg-name="ML Campeones 8 1080  " tvg-logo="https://telegra.ph/file/e42c3be17719dec0dca80.jpg" group-title="M+ Champions ",ML Campeones 8 1080  
+acestream://1a4b41c02e116ed19a505551a9caa79f54c027f7
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 8" tvg-name="ML Campeones 8 1080  " tvg-logo="https://telegra.ph/file/e42c3be17719dec0dca80.jpg" group-title="M+ Champions ",ML Campeones 8 1080  
+acestream://6c445141445b06d7b4328d80e2dd936bd0ca52ca
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 9" tvg-name="ML Campeones 9 SD  " tvg-logo="https://telegra.ph/file/cc889bcf3a3eabd469beb.jpg" group-title="M+ Champions ",ML Campeones 9 SD  
+acestream://7244379f8f6382d40afec871fb8e4219a803840b
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 10" tvg-name="ML Campeones 10 SD  " tvg-logo="https://telegra.ph/file/87e8ff06e728bac9eabb8.jpg" group-title="M+ Champions ",ML Campeones 10 SD  
+acestream://d42e1b592b840ea34394fd3e1b1d3a4d0f399213
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 11" tvg-name="ML Campeones 11 SD  " tvg-logo="https://telegra.ph/file/26538ea7e7858cf653f05.jpg" group-title="M+ Champions ",ML Campeones 11 SD  
+acestream://e737c681a92a4328703761c6ed9d8a951655f3e4
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 12" tvg-name="ML Campeones 12 SD  " tvg-logo="https://telegra.ph/file/e070f448f095ac6d66379.jpg" group-title="M+ Champions ",ML Campeones 12 SD  
+acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 13" tvg-name="ML Campeones 17 SD  " tvg-logo="https://telegra.ph/file/e070f448f095ac6d66379.jpg" group-title="M+ Champions ",ML Campeones 13 SD  
+acestream://60296c246e3596f334903fefd48cfaa724a5053b
+
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="LaLiga Hypermotion 1080  " tvg-logo="https://telegra.ph/file/b59e93c8d1d751deb72aa.jpg" group-title="Hypermotion ",LaLiga Hypermotion 1080  
+acestream://4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="LaLiga Hypermotion 720  " tvg-logo="https://telegra.ph/file/b59e93c8d1d751deb72aa.jpg" group-title="Hypermotion ",LaLiga Hypermotion 720  
+acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-name="LaLiga Hypermotion 2 1080  " tvg-logo="https://telegra.ph/file/7431c20a1684dd79bca18.jpg" group-title="Hypermotion ",LaLiga Hypermotion 2 1080  
+acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-name="LaLiga Hypermotion 2 720  " tvg-logo="https://telegra.ph/file/7431c20a1684dd79bca18.jpg" group-title="Hypermotion ",LaLiga Hypermotion 2 720  
+acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-name="LaLiga Hypermotion 2 720  " tvg-logo="https://telegra.ph/file/7431c20a1684dd79bca18.jpg" group-title="Hypermotion ",LaLiga Hypermotion 2 720  
+acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" tvg-name="LaLiga Hypermotion 3  " tvg-logo="https://telegra.ph/file/0fa86d461144e95473650.jpg" group-title="Hypermotion ",LaLiga Hypermotion 3  
+acestream://b4a076c1f67a5c1f1ba899ac61b9401b1dc30f41
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 4" tvg-name="LaLiga Hypermotion 4  " tvg-logo="https://telegra.ph/file/c08926d02912610b761f3.jpg" group-title="Hypermotion ",LaLiga Hypermotion 4  
+acestream://2cacf21476b036e319bcb7c7e747766e6ccc082e
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 5" tvg-name="LaLiga Hypermotion 5  " tvg-logo="https://telegra.ph/file/99ff7636249cc9bbb571c.jpg" group-title="Hypermotion ",LaLiga Hypermotion 5  
+acestream://a1146358aa50c99c887108b17f62f9264186a16a
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 6" tvg-name="LaLiga Hypermotion 6  " tvg-logo="https://telegra.ph/file/118c474d14a90afb8cf93.jpg" group-title="Hypermotion ",LaLiga Hypermotion 6  
+acestream://7a9bb1b9cccb759c44ed84f3c1283922e6854670
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 7" tvg-name="LaLiga Hypermotion 7  " tvg-logo="https://telegra.ph/file/f0b33dd7f388f97420e64.jpg" group-title="Hypermotion ",LaLiga Hypermotion 7  
+acestream://446e73a22582921393b020ed08b768ad8e14d754
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 8" tvg-name="LaLiga Hypermotion 8  " tvg-logo="https://telegra.ph/file/8e26023b62fc2d437c4cd.jpg" group-title="Hypermotion ",LaLiga Hypermotion 8  
+acestream://4d52fc1994fe927702aeb7bc8778e2f23b1260e2
+
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 1080 " tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" group-title="F1 ",DAZN F1 1080 
+acestream://d65257bb934b73647374224fd62d836815804be2
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 1080 " tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" group-title="F1 ",DAZN F1 1080 
+acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 Multicamara  " tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" group-title="F1 ",DAZN F1 Multicamara  
+acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 720  " tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" group-title="F1 ",DAZN F1 720  
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 UHD  " tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" group-title="F1 ",DAZN F1 UHD  
+acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 1080  " tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" group-title="F1 ",DAZN F1 1080  
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 1080  " tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" group-title="F1 ",DAZN F1 1080  
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 tvg-id="F1TV FHD ESP" tvg-name="F1TV FHD ESP " tvg-logo="https://uploads-ssl.webflow.com/61b372525d9e220633140352/6313d097695072614d9b202a_F1TV_Logo.png" group-title="F1 ",F1TV FHD ESP 
+acestream://2628a08d3267d75f88bbeb378a4296c8eb1d10a0
+#EXTINF:-1 tvg-id="F1TV FHD UK" tvg-name="F1TV FHD UK " tvg-logo="https://uploads-ssl.webflow.com/61b372525d9e220633140352/6313d097695072614d9b202a_F1TV_Logo.png" group-title="F1 ",F1TV FHD UK 
+acestream://90a9505df45de30d95ae9ea754fc3cfc54d83744
 
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="M+ Deportes 720" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" group-title="M+ Deportes ",M+ Deportes 1080 
 acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d
@@ -38,7 +180,7 @@ acestream://d00223931b1854163e24c5c22475015d7d45c112
 acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="M+ Deportes 1080 " tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" group-title="M+ Deportes ",M+ Deportes 1080 
 acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="M+ Deportes 1080 acb5" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" group-title="M+ Deportes ",M+ Deportes 1080 
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="M+ Deportes 1080 " tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" group-title="M+ Deportes ",M+ Deportes 1080 
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="M+ Deportes 2 1080 " tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-2-365.png" group-title="M+ Deportes ",M+ Deportes 2 1080 
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
@@ -53,210 +195,75 @@ acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 #EXTINF:-1 tvg-id="M+ Deportes 7" tvg-name="M+ Deportes 7 1080 " tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" group-title="M+ Deportes ",M+ Deportes 7 1080 
 acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
 
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LaLiga UHD" tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" group-title="M+ LaLiga ",M+ LaLiga UHD
-acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LaLiga 1080P  " tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" group-title="M+ LaLiga ",M+ LaLiga 1080P  aa82
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LaLiga 1080P  " tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" group-title="M+ LaLiga ",M+ LaLiga 1080P  512a
-acestream://512aeadf50d91603d15b32f1e408166536ec4ac9
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LaLiga 1080 MultiAudio  " tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" group-title="M+ LaLiga ",M+ LaLiga 1080 MultiAudio  7d8c
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LaLiga 1080 MultiAudio  " tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" group-title="M+ LaLiga ",M+ LaLiga 1080 MultiAudio  1969
-acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LaLiga " tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" group-title="M+ LaLiga ",M+ LaLiga cc9b7
-acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LaLiga " tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" group-title="M+ LaLiga ",M+ LaLiga 1080 1c76
-acestream://1c761eb280cdf43748275e58942914620b0551d4
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LaLiga " tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" group-title="M+ LaLiga ",M+ LaLiga 1080 1c76
-acestream://16acb1d7c7760a7929d79b99f804bdf7a5d7e26b
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LaLiga 720  " tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" group-title="M+ LaLiga ",M+ LaLiga 720  f031
-acestream://f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-name="M+ LaLiga 2 1080  " tvg-logo="https://telegra.ph/file/954f096c5f1cb382e50f7.jpg" group-title="M+ LaLiga ",M+ LaLiga 2 1080  2602
-acestream://26029f72a4ca831d09deefe89534818db1d105bc
-#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-name="M+ LaLiga 2 1080  " tvg-logo="https://telegra.ph/file/954f096c5f1cb382e50f7.jpg" group-title="M+ LaLiga ",M+ LaLiga 2 1080  2602
-acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
-#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-name="M+ LaLiga 2 1080  " tvg-logo="https://telegra.ph/file/954f096c5f1cb382e50f7.jpg" group-title="M+ LaLiga ",M+ LaLiga 2 1080  2602
-acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
-#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-name="M+ LaLiga 2 720  " tvg-logo="https://telegra.ph/file/954f096c5f1cb382e50f7.jpg" group-title="M+ LaLiga ",M+ LaLiga 2 720  8012
-acestream://80126b240f3e4e004754fd8f8103e857ab2556a0
-#EXTINF:-1 tvg-id="M+ LaLiga TV 3 HD" tvg-name="M+ LaLiga 3 1080  " tvg-logo="https://telegra.ph/file/d9a9b3f25fff3ffff3ab5.jpg" group-title="M+ LaLiga ",M+ LaLiga 3 1080  4c48
-acestream://4c4844564313e39a888f593511f299f5ba3cf929
-#EXTINF:-1 tvg-id="M+ LaLiga TV 4" tvg-name="M+ LaLiga 4 1080  aa8f" tvg-logo="https://telegra.ph/file/dbf9f93a95f2e1d732098.jpg" group-title="M+ LaLiga ",M+ LaLiga 4 1080  aa8f
-acestream://aa8f826da70e27a26b29c7b32402f17e8a67a8b0
-#EXTINF:-1 tvg-id="M+ LaLiga TV 5" tvg-name="M+ LaLiga 5 1080  5353" tvg-logo="https://telegra.ph/file/2bf2e508d5e905203eae0.jpg" group-title="M+ LaLiga ",M+ LaLiga 5 1080  5353
-acestream://535394f62a810bc5aeb25be75ea5ff7d03e070b2
-#EXTINF:-1 tvg-id="M+ LaLiga TV 6" tvg-name="M+ LaLiga 6 1080  c896" tvg-logo="https://telegra.ph/file/1beb547ed9a6f41b3aabc.jpg" group-title="M+ LaLiga ",M+ LaLiga 6 1080  c896
-acestream://c896d37778f9e43549a788fc22206a655895b51b
+#EXTINF:-1 tvg-id="Primera RFEF" tvg-name="PRIMERA Federacion 1RFEF" tvg-logo="http://upload.turkcewiki.org/wikipedia/commons/b/bd/Logo_Primera_RFEF.png" group-title="Primera RFEF",PRIMERA Federacion 1RFEF
+acestream://be071f7a5977de40f8f024a8ae582e799a6c4b8c
+#EXTINF:-1 tvg-id="Primera RFEF" tvg-name="PRIMERA Federacion 1RFEF" tvg-logo="http://upload.turkcewiki.org/wikipedia/commons/b/bd/Logo_Primera_RFEF.png" group-title="Primera RFEF",PRIMERA Federacion 1RFEF
+acestream://db42b6826943198e4b51b70955df598eb7342b35
+#EXTINF:-1 tvg-id="Primera RFEF" tvg-name="PRIMERA Federacion 1RFEF" tvg-logo="http://upload.turkcewiki.org/wikipedia/commons/b/bd/Logo_Primera_RFEF.png" group-title="Primera RFEF",PRIMERA Federacion 1RFEF
+acestream://ea954f97c49ee9d3189855e333630ed0323defa6
 
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LaLiga 1080 MultiAudio  1960" tvg-logo="https://telegra.ph/file/083da39b90492923b30d4.jpg" group-title="DAZN LaLiga ",DAZN LaLiga 1080 MultiAudio  1960
-acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LaLiga 1080 MultiAudio  7525" tvg-logo="https://telegra.ph/file/083da39b90492923b30d4.jpg" group-title="DAZN LaLiga ",DAZN LaLiga 1080 MultiAudio  7525
-acestream://75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LaLiga 720  a3bc" tvg-logo="https://telegra.ph/file/083da39b90492923b30d4.jpg" group-title="DAZN LaLiga ",DAZN LaLiga 720  a3bc
-acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LaLiga 2 1080 MultiAudio  e33e" tvg-logo="https://telegra.ph/file/94036fc98a0d900cc62a5.jpg" group-title="DAZN LaLiga ",DAZN LaLiga 2 1080 MultiAudio  e33e
-acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10
-#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LaLiga 2 1080 MultiAudio  02b9" tvg-logo="https://telegra.ph/file/94036fc98a0d900cc62a5.jpg" group-title="DAZN LaLiga ",DAZN LaLiga 2 1080 MultiAudio  02b9
-acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
-#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LaLiga 2 720 MultiAudio  0950" tvg-logo="https://telegra.ph/file/94036fc98a0d900cc62a5.jpg" group-title="DAZN LaLiga ",DAZN LaLiga 2 720 MultiAudio  0950
-acestream://0950c37fe1ea817fc561c611ae943d58505f7a79
-#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LaLiga 2 720 MultiAudio  0950" tvg-logo="https://telegra.ph/file/94036fc98a0d900cc62a5.jpg" group-title="DAZN LaLiga ",DAZN LaLiga 2 720 MultiAudio  0950
-acestream://93d663e92a93845b11c9831885646fa39ba1ed66
-#EXTINF:-1 tvg-id="DAZN LaLiga 3 HD" tvg-name="DAZN LaLiga 3 1080 MultiAudio  8c71" tvg-logo="https://telegra.ph/file/0693ac4e4edc2485672af.jpg" group-title="DAZN LaLiga ",DAZN LaLiga 3 1080 MultiAudio  8c71
-acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74
-#EXTINF:-1 tvg-id="DAZN LaLiga 4 HD" tvg-name="DAZN LaLiga 4 1080 MultiAudio  2792" tvg-logo="https://telegra.ph/file/58cbca971f554effdfba8.jpg" group-title="DAZN LaLiga ",DAZN LaLiga 4 1080 MultiAudio  2792
-acestream://2792a8a5f4a3f53cd72dec377a2639cd12a6973e
-#EXTINF:-1 tvg-id="DAZN LaLiga 5 HD" tvg-name="DAZN LaLiga 5 1080 MultiAudio  99e5" tvg-logo="https://telegra.ph/file/be7e3f2a10da528ba5e38.jpg" group-title="DAZN LaLiga ",DAZN LaLiga 5 1080 MultiAudio  99e5
-
-acestream://99e544cddbee13798e854c1009ee7d1a93fdedf7
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="ML Campeones 1080 MultiAudio  931b" tvg-logo="https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg" group-title="M+ Champions ",ML Campeones 1080 MultiAudio  931b
-acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="ML Campeones 1080 MultiAudio  f096" tvg-logo="https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg" group-title="M+ Champions ",ML Campeones 1080 MultiAudio  f096
-acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="ML Campeones 1080P  1d79" tvg-logo="https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg" group-title="M+ Champions ",ML Campeones 1080P  1d79
-acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="ML Campeones 720  e2e2" tvg-logo="https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg" group-title="M+ Champions ",ML Campeones 720  e2e2
-acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="ML Campeones 2 1080  fc2f" tvg-logo="https://telegra.ph/file/388cb7e9c2c35b3e2b2a3.jpg" group-title="M+ Champions ",ML Campeones 2 1080  fc2f
-acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="ML Campeones 2 720  6753" tvg-logo="https://telegra.ph/file/388cb7e9c2c35b3e2b2a3.jpg" group-title="M+ Champions ",ML Campeones 2 720  6753
-acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="ML Campeones 3 1080  ad37" tvg-logo="https://telegra.ph/file/e4c5995e20c06f7fd036f.jpg" group-title="M+ Champions ",ML Campeones 3 1080  ad37
-acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="ML Campeones 3 720  d59f" tvg-logo="https://telegra.ph/file/e4c5995e20c06f7fd036f.jpg" group-title="M+ Champions ",ML Campeones 3 720  d59f
-acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-name="ML Campeones 4 1080  1b48" tvg-logo="https://telegra.ph/file/ed5ff4d4af1b41089bf63.jpg" group-title="M+ Champions ",ML Campeones 4 1080  1b48
-acestream://1b48d5881337c87b89e1edefff6688fe2271d222
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-name="ML Campeones 4 1080  f2df" tvg-logo="https://telegra.ph/file/ed5ff4d4af1b41089bf63.jpg" group-title="M+ Champions ",ML Campeones 4 1080  f2df
-acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="ML Campeones 5 1080  5c21" tvg-logo="https://telegra.ph/file/f70ec8ceea100f7cc16d3.jpg" group-title="M+ Champions ",ML Campeones 5 1080  5c21
-acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="ML Campeones 5 1080  67b3" tvg-logo="https://telegra.ph/file/f70ec8ceea100f7cc16d3.jpg" group-title="M+ Champions ",ML Campeones 5 1080  67b3
-acestream://67b353ab1c4c2f6396b3ca5c4b45023bd9927561
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 6" tvg-name="ML Campeones 6 1080  a097" tvg-logo="https://telegra.ph/file/973fa621597f93bf3ada4.jpg" group-title="M+ Champions ",ML Campeones 6 1080  a097
-acestream://a0978a100de9a307c12d395d9b2f4142db6ab52d
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 6" tvg-name="ML Campeones 6 1080  64a9" tvg-logo="https://telegra.ph/file/973fa621597f93bf3ada4.jpg" group-title="M+ Champions ",ML Campeones 6 1080  64a9
-acestream://64a9353032efa2acb093d0bb86481f20f482d47e
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-name="ML Campeones 7 1080  5932" tvg-logo="https://telegra.ph/file/0059fad5e9fb7248810ca.jpg" group-title="M+ Champions ",ML Campeones 7 1080  5932
-acestream://5932623d2fd7ed16b01787251b418e4f59a01cda
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 8" tvg-name="ML Campeones 8 1080  1a4b" tvg-logo="https://telegra.ph/file/e42c3be17719dec0dca80.jpg" group-title="M+ Champions ",ML Campeones 8 1080  1a4b
-acestream://1a4b41c02e116ed19a505551a9caa79f54c027f7
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 8" tvg-name="ML Campeones 8 1080  6c44" tvg-logo="https://telegra.ph/file/e42c3be17719dec0dca80.jpg" group-title="M+ Champions ",ML Campeones 8 1080  6c44
-acestream://6c445141445b06d7b4328d80e2dd936bd0ca52ca
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 9" tvg-name="ML Campeones 9 SD  7244" tvg-logo="https://telegra.ph/file/cc889bcf3a3eabd469beb.jpg" group-title="M+ Champions ",ML Campeones 9 SD  7244
-acestream://7244379f8f6382d40afec871fb8e4219a803840b
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 10" tvg-name="ML Campeones 10 SD  d42e" tvg-logo="https://telegra.ph/file/87e8ff06e728bac9eabb8.jpg" group-title="M+ Champions ",ML Campeones 10 SD  d42e
-acestream://d42e1b592b840ea34394fd3e1b1d3a4d0f399213
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 11" tvg-name="ML Campeones 11 SD  e737" tvg-logo="https://telegra.ph/file/26538ea7e7858cf653f05.jpg" group-title="M+ Champions ",ML Campeones 11 SD  e737
-acestream://e737c681a92a4328703761c6ed9d8a951655f3e4
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 12" tvg-name="ML Campeones 12 SD  3336" tvg-logo="https://telegra.ph/file/e070f448f095ac6d66379.jpg" group-title="M+ Champions ",ML Campeones 12 SD  3336
-acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 13" tvg-name="ML Campeones 17 SD  6029" tvg-logo="https://telegra.ph/file/e070f448f095ac6d66379.jpg" group-title="M+ Champions ",ML Campeones 13 SD  6029
-acestream://60296c246e3596f334903fefd48cfaa724a5053b
-
-#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="M Plus+ 1080  5a23" tvg-logo="https://telegra.ph/file/9a0d68a169f207c184eca.png" group-title="M+  ",M Plus+ 1080  5a23
+#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="M Plus+ 1080  " tvg-logo="https://telegra.ph/file/9a0d68a169f207c184eca.png" group-title="M+  ",M Plus+ 1080  
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
-#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="#Vamos 1080  859b" tvg-logo="https://telegra.ph/file/119d11f705496fbac4439.png" group-title="M+  ",#Vamos 1080  859b
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="#Vamos 1080  " tvg-logo="https://telegra.ph/file/119d11f705496fbac4439.png" group-title="M+  ",#Vamos 1080  
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="#Vamos 720  3bba" tvg-logo="https://telegra.ph/file/119d11f705496fbac4439.png" group-title="M+  ",#Vamos 720  3bba
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="#Vamos 720  " tvg-logo="https://telegra.ph/file/119d11f705496fbac4439.png" group-title="M+  ",#Vamos 720  
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="#Vamos 720  3bba" tvg-logo="https://telegra.ph/file/119d11f705496fbac4439.png" group-title="M+  ",#Vamos 720  3bba
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="#Vamos 720  " tvg-logo="https://telegra.ph/file/119d11f705496fbac4439.png" group-title="M+  ",#Vamos 720  
 acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
-#EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-name="#Ellas 1080  6765" tvg-logo="https://telegra.ph/file/90d3f483ee3eabc124bbb.jpg" group-title="M+  ",#Ellas 1080  6765
+#EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-name="#Ellas 1080  " tvg-logo="https://telegra.ph/file/90d3f483ee3eabc124bbb.jpg" group-title="M+  ",#Ellas 1080  
 acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
 
-#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="M+ Golf 1080  4f94" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GOLF+" group-title="M+ Golf ",M+ Golf 1080  4f94
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="M+ Golf 1080  " tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GOLF+" group-title="M+ Golf ",M+ Golf 1080  
 acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
-#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="M+ Golf 1080  8726" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GOLF+" group-title="M+ Golf ",M+ Golf 1080  8726
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="M+ Golf 1080  " tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GOLF+" group-title="M+ Golf ",M+ Golf 1080  
 acestream://872608e734992db636eb79426802cd08f4029afb
-#EXTINF:-1 tvg-id="M+ Golf 2 HD" tvg-name="M+ Golf 2 1080  9a4f" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GOLF2" group-title="M+ Golf ",M+ Golf 2 1080  9a4f
+#EXTINF:-1 tvg-id="M+ Golf 2 HD" tvg-name="M+ Golf 2 1080  " tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GOLF2" group-title="M+ Golf ",M+ Golf 2 1080  
 acestream://9a4f3ae6563668b7709dac509dedc709441b3fd9
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ Copa Del Rey 1080" tvg-logo="https://brandlogos.net/wp-content/uploads/2022/08/copa_del_rey-logo_brandlogos.net_mm7fh.png" group-title="M+ Copas ",M+ Copa Del Rey 1080
 acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ Copa Del Rey 720" tvg-logo="https://brandlogos.net/wp-content/uploads/2022/08/copa_del_rey-logo_brandlogos.net_mm7fh.png" group-title="M+ Copas ",M+ Copa Del Rey 720
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ Copa del Rey 720" tvg-logo="https://brandlogos.net/wp-content/uploads/2022/08/copa_del_rey-logo_brandlogos.net_mm7fh.png" group-title="M+ Copas ",M+ Copa Del Rey 720
 acestream://dab7cab5d6d177df36c3b333ca363c2266d91a03
-#EXTINF:-1 tvg-id="OTROS" tvg-name="M+ Supercopa 1080 ?????" tvg-logo="http://assets.stickpng.com/images/584ad275b519ea740933a8b7.png" group-title="M+ Copas ",M+ Supercopa 1080 ???????
+#EXTINF:-1 tvg-id="OTROS" tvg-name="M+ Supercopa 1080 " tvg-logo="http://assets.stickpng.com/images/584ad275b519ea740933a8b7.png" group-title="M+ Copas ",M+ Supercopa 1080 
 acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
 
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="LaLiga Hypermotion 1080  4c46" tvg-logo="https://telegra.ph/file/b59e93c8d1d751deb72aa.jpg" group-title="Hypermotion ",LaLiga Hypermotion 1080  4c46
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="LaLiga Hypermotion 720  06b3" tvg-logo="https://telegra.ph/file/b59e93c8d1d751deb72aa.jpg" group-title="Hypermotion ",LaLiga Hypermotion 720  06b3
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-name="LaLiga Hypermotion 2 1080  d81b" tvg-logo="https://telegra.ph/file/7431c20a1684dd79bca18.jpg" group-title="Hypermotion ",LaLiga Hypermotion 2 1080  d81b
-acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-name="LaLiga Hypermotion 2 720  2709" tvg-logo="https://telegra.ph/file/7431c20a1684dd79bca18.jpg" group-title="Hypermotion ",LaLiga Hypermotion 2 720  2709
-acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-name="LaLiga Hypermotion 2 720  2709" tvg-logo="https://telegra.ph/file/7431c20a1684dd79bca18.jpg" group-title="Hypermotion ",LaLiga Hypermotion 2 720  2709
-acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" tvg-name="LaLiga Hypermotion 3  b4a0" tvg-logo="https://telegra.ph/file/0fa86d461144e95473650.jpg" group-title="Hypermotion ",LaLiga Hypermotion 3  b4a0
-acestream://b4a076c1f67a5c1f1ba899ac61b9401b1dc30f41
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 4" tvg-name="LaLiga Hypermotion 4  2cac" tvg-logo="https://telegra.ph/file/c08926d02912610b761f3.jpg" group-title="Hypermotion ",LaLiga Hypermotion 4  2cac
-acestream://2cacf21476b036e319bcb7c7e747766e6ccc082e
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 5" tvg-name="LaLiga Hypermotion 5  a114" tvg-logo="https://telegra.ph/file/99ff7636249cc9bbb571c.jpg" group-title="Hypermotion ",LaLiga Hypermotion 5  a114
-acestream://a1146358aa50c99c887108b17f62f9264186a16a
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 6" tvg-name="LaLiga Hypermotion 6  7a9b" tvg-logo="https://telegra.ph/file/118c474d14a90afb8cf93.jpg" group-title="Hypermotion ",LaLiga Hypermotion 6  7a9b
-acestream://7a9bb1b9cccb759c44ed84f3c1283922e6854670
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 7" tvg-name="LaLiga Hypermotion 7  446e" tvg-logo="https://telegra.ph/file/f0b33dd7f388f97420e64.jpg" group-title="Hypermotion ",LaLiga Hypermotion 7  446e
-acestream://446e73a22582921393b020ed08b768ad8e14d754
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 8" tvg-name="LaLiga Hypermotion 8  4d52" tvg-logo="https://telegra.ph/file/8e26023b62fc2d437c4cd.jpg" group-title="Hypermotion ",LaLiga Hypermotion 8  4d52
-acestream://4d52fc1994fe927702aeb7bc8778e2f23b1260e2
 
-#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 1080  8ca0" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M1SD" group-title="DAZN ",DAZN 1 1080  8ca0
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 1080  " tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M1SD" group-title="DAZN ",DAZN 1 1080  
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 1080  d5b2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M1SD" group-title="DAZN ",DAZN 1 1080  d5b2
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 1080  " tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M1SD" group-title="DAZN ",DAZN 1 1080  
 acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 720  eaff" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M1SD" group-title="DAZN ",DAZN 1 720  eaff
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 720  " tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M1SD" group-title="DAZN ",DAZN 1 720  
 acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2 1080  60db" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M2SD" group-title="DAZN ",DAZN 2 1080  60db
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2 1080  " tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M2SD" group-title="DAZN ",DAZN 2 1080  
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2 1080  b0ea" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M2SD" group-title="DAZN ",DAZN 2 1080  b0ea
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2 1080  " tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M2SD" group-title="DAZN ",DAZN 2 1080  
 acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2 720  7aa4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M2SD" group-title="DAZN ",DAZN 2 720  7aa4
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2 720  " tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M2SD" group-title="DAZN ",DAZN 2 720  
 acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="DAZN 3 1080  a8ff" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZN3" group-title="DAZN ",DAZN 3 1080  a8ff
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="DAZN 3 1080  " tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZN3" group-title="DAZN ",DAZN 3 1080  
 acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="DAZN 3 720  d1d9" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZN3" group-title="DAZN ",DAZN 3 720  d1d9
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="DAZN 3 720  " tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZN3" group-title="DAZN ",DAZN 3 720  
 acestream://d1d9ec2361a6ac8edc0b2841866383768cc28df9
-#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="DAZN 4 1080  2fcd" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZN4" group-title="DAZN ",DAZN 4 1080  2fcd
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="DAZN 4 1080  " tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZN4" group-title="DAZN ",DAZN 4 1080  
 acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
-#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="DAZN 4 720 7e90" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZN4" group-title="DAZN ",DAZN 4 720 7e90
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="DAZN 4 720 " tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZN4" group-title="DAZN ",DAZN 4 720 
 acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 
-#EXTINF:-1 tvg-id="DAZN LaLiga Femenina 1" tvg-name="DAZN Liga F 1  d6cd" tvg-logo="https://telegra.ph/file/88ed96a2e74f404784cce.png" group-title="DAZN ",DAZN Liga F 1  d6cd
+#EXTINF:-1 tvg-id="DAZN LaLiga Femenina 1" tvg-name="DAZN Liga F 1  " tvg-logo="https://telegra.ph/file/88ed96a2e74f404784cce.png" group-title="DAZN ",DAZN Liga F 1  
 acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
-#EXTINF:-1 tvg-id="DAZN LaLiga Femenina 2" tvg-name="DAZN Liga F 2  4af5" tvg-logo="https://telegra.ph/file/afdb26d76ca8cd6c83594.png" group-title="DAZN ",DAZN Liga F 2  4af5
+#EXTINF:-1 tvg-id="DAZN LaLiga Femenina 2" tvg-name="DAZN Liga F 2  " tvg-logo="https://telegra.ph/file/afdb26d76ca8cd6c83594.png" group-title="DAZN ",DAZN Liga F 2  
 acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
-#EXTINF:-1 tvg-id="DAZN LaLiga Femenina 3" tvg-name="DAZN Liga F 3  1629" tvg-logo="https://telegra.ph/file/ab593c68496f7ade0126c.png" group-title="DAZN ",DAZN Liga F 3  1629
+#EXTINF:-1 tvg-id="DAZN LaLiga Femenina 3" tvg-name="DAZN Liga F 3  " tvg-logo="https://telegra.ph/file/ab593c68496f7ade0126c.png" group-title="DAZN ",DAZN Liga F 3  
 acestream://162942adc047d0f78eac056effbe5bbec54a5e51
-#EXTINF:-1 tvg-id="DAZN LaLiga Femenina 4" tvg-name="DAZN Liga F 4  e454" tvg-logo="https://telegra.ph/file/426648e524b5cacd6f28b.png" group-title="DAZN ",DAZN Liga F 4  e454
+#EXTINF:-1 tvg-id="DAZN LaLiga Femenina 4" tvg-name="DAZN Liga F 4  " tvg-logo="https://telegra.ph/file/426648e524b5cacd6f28b.png" group-title="DAZN ",DAZN Liga F 4  
 acestream://e454681a152a86da504e63694f17f90d0586867d
 
 
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 1080 d652" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" group-title="F1 ",DAZN F1 1080 d652
-acestream://d65257bb934b73647374224fd62d836815804be2
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 1080 9c3f" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" group-title="F1 ",DAZN F1 1080 9c3f
-acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 Multicamara  9686" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" group-title="F1 ",DAZN F1 Multicamara  9686
-acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 720  e1fc" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" group-title="F1 ",DAZN F1 720  e1fc
-acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 UHD  6b94" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" group-title="F1 ",DAZN F1 UHD  6b94
-acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 1080  5789" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" group-title="F1 ",DAZN F1 1080  5789
-acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 1080  9dad" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" group-title="F1 ",DAZN F1 1080  9dad
-acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 tvg-id="F1TV FHD ESP" tvg-name="F1TV FHD ESP 2628" tvg-logo="https://uploads-ssl.webflow.com/61b372525d9e220633140352/6313d097695072614d9b202a_F1TV_Logo.png" group-title="F1 ",F1TV FHD ESP 2628
-acestream://2628a08d3267d75f88bbeb378a4296c8eb1d10a0
-#EXTINF:-1 tvg-id="F1TV FHD UK" tvg-name="F1TV FHD UK 90a9" tvg-logo="https://uploads-ssl.webflow.com/61b372525d9e220633140352/6313d097695072614d9b202a_F1TV_Logo.png" group-title="F1 ",F1TV FHD UK 90a9
-acestream://90a9505df45de30d95ae9ea754fc3cfc54d83744
-
-#EXTINF:-1 tvg-id="USA" tvg-name="NBA TV USA" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" group-title="USA",NBA TV USA
+#EXTINF:-1 tvg-id="USA" tvg-name="NBA TV USA" tvg-logo="https://logospng.org/wp-content/uploads/nba.png" group-title="USA",NBA TV USA
 acestream://e72d03fb9694164317260f684470be9ab781ed95
-#EXTINF:-1 tvg-id="USA" tvg-name="NBA 1 USA" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" group-title="USA",NBA 1 USA
+#EXTINF:-1 tvg-id="USA" tvg-name="NBA 1 USA" tvg-logo="https://logospng.org/wp-content/uploads/nba.png" group-title="USA",NBA 1 USA
 acestream://e2973f7d40c438a5ef429ae944a9b4e403e9eaed
-#EXTINF:-1 tvg-id="USA" tvg-name="NBA 2 USA" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" group-title="USA",NBA 2 USA
+#EXTINF:-1 tvg-id="USA" tvg-name="NBA 2 USA" tvg-logo="https://logospng.org/wp-content/uploads/nba.png" group-title="USA",NBA 2 USA
 acestream://e5d02cb0607d5888b25169ebd23c1bca952b12d3
 #EXTINF:-1 tvg-id="USA" tvg-name="NHL USA" tvg-logo="http://www.pngall.com/wp-content/uploads/2/NHL.png" group-title="USA",NHL USA
 acestream://2fab201db52297f9bfbe7c44d6109369cdb29620
@@ -268,14 +275,10 @@ acestream://664eb5fe460b96941aed633959a845b185cd8394
 acestream://c9c062941fbecb16ce29437f346ea7177d720898
 #EXTINF:-1 tvg-id="USA" tvg-name="FOX Sports 2 HD USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="USA",FOX Sports 2 HD USA
 acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/1280px-Sky_Sport_Arena_-_Logo_2020.svg.png" group-title= "OTROS" tvg-id="Sky Sports Arena", SKY SPORT ARENA
 acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
-#EXTINF:-1 tvg-id="OTROS" tvg-name="PRIMERA Federacion 1RFEF" tvg-logo="http://upload.turkcewiki.org/wikipedia/commons/b/bd/Logo_Primera_RFEF.png" group-title="OTROS",PRIMERA Federacion 1RFEF
-acestream://be071f7a5977de40f8f024a8ae582e799a6c4b8c
-#EXTINF:-1 tvg-id="OTROS" tvg-name="PRIMERA Federacion 1RFEF" tvg-logo="http://upload.turkcewiki.org/wikipedia/commons/b/bd/Logo_Primera_RFEF.png" group-title="OTROS",PRIMERA Federacion 1RFEF
-acestream://db42b6826943198e4b51b70955df598eb7342b35
-#EXTINF:-1 tvg-id="OTROS" tvg-name="PRIMERA Federacion 1RFEF" tvg-logo="http://upload.turkcewiki.org/wikipedia/commons/b/bd/Logo_Primera_RFEF.png" group-title="OTROS",PRIMERA Federacion 1RFEF
-acestream://ea954f97c49ee9d3189855e333630ed0323defa6
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magenta_Sport_Logo_2020.svg/640px-Magenta_Sport_Logo_2020.svg.png" group-title="Alemania" tvg -id="sky sport F1", sky sport F1
 acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
