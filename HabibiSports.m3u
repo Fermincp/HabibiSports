@@ -1,8 +1,12 @@
-#EXTM3U  
+#EXTM3U  url="https://github.com/Fermincp/HabibiSports/blob/main/HabibiSports.m3u"
+#EXTINF:-1 tvg-id="" tvg-name="THIS IS THE WAY" tvg-logo="https://tenor.com/bpEmY.gif" 
 
-#EXTINF:-1 tvg-id="R. Madrid - M. City X.21:00" tvg-name="R. Madrid - M. City X.21:00" tvg-logo="https://https://clipground.com/images/champions-league-logo-png-7.jpg" group-title="Eventos Champions ",R. Madrid - M. City X.21:00 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 tvg-id="PSG - Barcelona X.21:00" tvg-name="PSG - Barcelona X.21:00" tvg-logo="https://https://clipground.com/images/champions-league-logo-png-7.jpg" group-title="Eventos Champions ",PSG - Barcelona X.21:00 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
-#EXTINF:-1 tvg-id="At. Madrid - B. Dortmund X.21:00" tvg-name="At. Madrid - B. Dortmund X.21:00" tvg-logo="https://https://clipground.com/images/champions-league-logo-png-7.jpg" group-title="Eventos Champions ",At. Madrid - B. Dortmund X.21:00 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 tvg-id="R. Madrid - M. City X.21:00" tvg-name="R. Madrid - M. City X.21:00" tvg-logo="https://https://clipground.com/images/champions-league-logo-png-7.jpg" group-title="Eventos Champions ",R. Madrid - M. City X.21:00
+acestream://931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 tvg-id="PSG - Barcelona X.21:00" tvg-name="PSG - Barcelona X.21:00" tvg-logo="https://https://clipground.com/images/champions-league-logo-png-7.jpg" group-title="Eventos Champions ",PSG - Barcelona X.21:00
+acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
+#EXTINF:-1 tvg-id="At. Madrid - B. Dortmund X.21:00" tvg-name="At. Madrid - B. Dortmund X.21:00" tvg-logo="https://https://clipground.com/images/champions-league-logo-png-7.jpg" group-title="Eventos Champions ",At. Madrid - B. Dortmund X.21:00
+acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 
 #EXTINF:-1 tvg-id="Betis - Celta V.21:00" tvg-name="Betis - Celta V.21:00" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="Eventos LaLiga EA ",Betis - Celta V.21:00
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
