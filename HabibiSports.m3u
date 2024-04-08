@@ -338,20 +338,21 @@ acestream://edb507e38394d614c9ff55805c9d354ae13210bc
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Francia" tvg-id="Bein Sport 3", BEIN SPORTS 3 FRA
 acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/200px-TNT_Sports_2021_logo.svg.png" group-title="USA" tvg-id="BT DEPORTIVO 1", TNT SPORTS 1
-acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/200px-TNT_Sports_2021_logo.svg.png" group-title="USA" tvg-id= "BT DEPORTIVO 2", TNT SPORTS 2
-acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/200px-TNT_Sports_2021_logo.svg.png" group-title="USA" tvg-id= "BT DEPORTIVO 3", TNT SPORTS 3
-acestream://5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="Reino Unido" tvg-id="Premier Sports 1", Premier Sports 1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="UK" tvg-id="Premier Sports 1", Premier Sports 1
 acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1 tvg-logo="https://sport-onthebox.com/wp-content/uploads/2019/08/Premier-Sports-2.png" group-title="Reino Unido" tvg-id= "Premier Sports 2", Premier Sports 2
+#EXTINF:-1 tvg-logo="https://sport-onthebox.com/wp-content/uploads/2019/08/Premier-Sports-2.png" group-title="UK" tvg-id= "Premier Sports 2", Premier Sports 2
 acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
-#EXTINF:-1 tvg-id="Reino Unido" tvg-name="Sky Sports" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" group-title="Reino Unido ",Sky Sports
+#EXTINF:-1 tvg-id="Reino Unido" tvg-name="Sky Sports" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" group-title="UK ",Sky Sports
 acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 tvg-id="Reino Unido" tvg-name="Sky Sports" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" group-title="Reino Unido ",Sky Sports
+#EXTINF:-1 tvg-id="Reino Unido" tvg-name="Sky Sports" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" group-title="UK ",Sky Sports
 acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/200px-TNT_Sports_2021_logo.svg.png" group-title="UK" tvg-id="BT DEPORTIVO 1", TNT SPORTS 1
+acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/200px-TNT_Sports_2021_logo.svg.png" group-title="UK" tvg-id= "BT DEPORTIVO 2", TNT SPORTS 2
+acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/200px-TNT_Sports_2021_logo.svg.png" group-title="UK" tvg-id= "BT DEPORTIVO 3", TNT SPORTS 3
+acestream://5f966c123759de46dff29c379266b7a403452033
 
 #EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fmatch_ru_futbol_1.jpg" group-title="Rusia" tvg-id="Partido Fútbol 1", Partido Fútbol 1
 acestream://b28db77c5084da7993395d77df96c30bb134f0a9
