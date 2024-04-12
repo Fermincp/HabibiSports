@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
 
 #EXTINF:-1 tvg-id="Barcelona - PSG M.21:00" tvg-name="Barcelona - PSG M.21:00" tvg-logo="https://clipground.com/images/champions-league-logo-png-7.jpg" group-title="Eventos Champions ",Barcelona - PSG M.21:00
-acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
-#EXTINF:-1 tvg-id="B. Dortmund - At. Madrid M.21:00" tvg-name="B. Dortmund - At. Madrid M.21:00" tvg-logo="https://clipground.com/images/champions-league-logo-png-7.jpg" group-title="Eventos Champions ",B. Dortmund - At. Madrid M.21:00
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 tvg-id="B. Dortmund - At. Madrid M.21:00" tvg-name="B. Dortmund - At. Madrid M.21:00" tvg-logo="https://clipground.com/images/champions-league-logo-png-7.jpg" group-title="Eventos Champions ",B. Dortmund - At. Madrid M.21:00
+acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 #EXTINF:-1 tvg-id="Multichampions M.21:00" tvg-name="Multichampions M.21:00" tvg-logo="https://clipground.com/images/champions-league-logo-png-7.jpg" group-title="Eventos Champions ",Multichampions M.21:00
 acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
 #EXTINF:-1 tvg-id="M. City - R. Madrid X.21:00" tvg-name="M. City - R. Madrid X.21:00" tvg-logo="https://clipground.com/images/champions-league-logo-png-7.jpg" group-title="Eventos Champions ",M. City - R. Madrid X.21:00
-acestream://931b1984badcb821df7b47a66ac0835ac871b51c
+acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
 
 #EXTINF:-1 tvg-id="Betis - Celta V.21:00" tvg-name="Betis - Celta V.21:00" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="Eventos LaLiga EA ",Betis - Celta V.21:00
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
