@@ -200,6 +200,13 @@ acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 #EXTINF:-1 tvg-id="M+ Deportes 7" tvg-name="M+ Deportes 7 1080 " tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" group-title="M+ Deportes ",M+ Deportes 7 1080 
 acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
 
+#EXTINF:-1 tvg-id="EuroSport 1 1080p" tvg-name="EuroSport 1 1080p " tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fes%2Ffree-png-intru&psig=AOvVaw2497hP9g-7caWMiEmwW2SO&ust=1713294524189000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjYmNP1xIUDFQAAAAAdAAAAABAE" group-title="EuroSport ",EuroSport 1 1080p  
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 tvg-id="EuroSport 2 1080p" tvg-name="EuroSport 2 1080p " tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fit.wikipedia.org%2Fwiki%2FFile%3AEurosport_2_HD_Logo_2015.png&psig=AOvVaw3osPVfo6TyKKMDCBc82hFV&ust=1713294568160000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDQs-v1xIUDFQAAAAAdAAAAABAE" group-title="EuroSport ",EuroSport 2 1080p  
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 tvg-id="EuroSport Player" tvg-name="EuroSport Player " tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3AEurosport_Player_Logo_2015.svg&psig=AOvVaw2Z2Ilm7RM-hCOMSCu9Cqss&ust=1713294629475000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCQuYX2xIUDFQAAAAAdAAAAABAJ" group-title="EuroSport ",EuroSport Player  
+acestream://d871578fc069de543d1ed8b5e63092d870bad8ee
+
 
 #EXTINF:-1 tvg-id="Primera RFEF" tvg-name="PRIMERA Federacion 1RFEF" tvg-logo="http://upload.turkcewiki.org/wikipedia/commons/b/bd/Logo_Primera_RFEF.png" group-title="Primera RFEF",PRIMERA Federacion 1RFEF
 acestream://be071f7a5977de40f8f024a8ae582e799a6c4b8c
