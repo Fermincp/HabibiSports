@@ -1,33 +1,31 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
 
-#EXTINF:-1 tvg-id="Barcelona - PSG M.21:00" tvg-name="Barcelona - PSG M.21:00" tvg-logo="https://clipground.com/images/champions-league-logo-png-7.jpg" group-title="Eventos Champions ",Barcelona - PSG M.21:00
-acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 tvg-id="B. Dortmund - At. Madrid M.21:00" tvg-name="B. Dortmund - At. Madrid M.21:00" tvg-logo="https://clipground.com/images/champions-league-logo-png-7.jpg" group-title="Eventos Champions ",B. Dortmund - At. Madrid M.21:00
-acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 tvg-id="Multichampions M.21:00" tvg-name="Multichampions M.21:00" tvg-logo="https://clipground.com/images/champions-league-logo-png-7.jpg" group-title="Eventos Champions ",Multichampions M.21:00
-acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 tvg-id="M. City - R. Madrid X.21:00" tvg-name="M. City - R. Madrid X.21:00" tvg-logo="https://clipground.com/images/champions-league-logo-png-7.jpg" group-title="Eventos Champions ",M. City - R. Madrid X.21:00
+#EXTINF:-1 tvg-id="Barcelona -#EXTINF:-1 tvg-id="Barcelona - PSG 21:00" tvg-name="Barcelona - PSG 21:00" tvg-logo="https://clipground.com/images/champions-league-logo-png-7.jpg" group-title="Champions martes 16 ",Barcelona - PSG 21:00
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
+#EXTINF:-1 tvg-id="B. Dortmund - At. Madrid 21:00" tvg-name="B. Dortmund - At. Madrid 21:00" tvg-logo="https://clipground.com/images/champions-league-logo-png-7.jpg" group-title="Champions martes 16 ",B. Dortmund - At. Madrid 21:00
+acestream://931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 tvg-id="M. City - R. Madrid 21:00" tvg-name="M. City - R. Madrid 21:00" tvg-logo="https://clipground.com/images/champions-league-logo-png-7.jpg" group-title="Champions miercoles 17 ",M. City - R. Madrid 21:00
+acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 
-#EXTINF:-1 tvg-id="Betis - Celta V.21:00" tvg-name="Betis - Celta V.21:00" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="Eventos LaLiga EA ",Betis - Celta V.21:00
+#EXTINF:-1 tvg-id="Athletic vs Granada 21:00" tvg-name="Athletic vs Granada 21:00" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="LaLiga EA viernes 19",Athletic vs Granada 21:00
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 tvg-id="Atletico - Girona S.14:00" tvg-name="Atletico - Girona S.14:00" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="Eventos LaLiga EA ",Atletico - Girona S.14:00
+#EXTINF:-1 tvg-id="Celta vs Las Palmas 14:00" tvg-name="Celta vs Las Palmas 14:00" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="LaLiga EA sabado 20 ",Celta vs Las Palmas 14:00
+acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#EXTINF:-1 tvg-id="Rayo vs Osasuna 16:15" tvg-name="Rayo vs Osasuna 16:15" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="LaLiga EA sabado 20 ",Rayo vs Osasuna 16:15
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 tvg-id="Rayo - Getafe S.16:15" tvg-name="Rayo - Getafe S.16:15" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="Eventos LaLiga EA ",Rayo - Getafe S.16:15
+#EXTINF:-1 tvg-id="Valencia vs Betis 18:30" tvg-name="Valencia vs Betis 18:30" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="LaLiga EA sabado 20 ",Valencia vs Betis 18:30 
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 tvg-id="Mallorca - R.Madrid S.18:30" tvg-name="Mallorca - R.Madrid S.18:30" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="Eventos LaLiga EA ",Mallorca - R.Madrid S.18:30 
+#EXTINF:-1 tvg-id="Girona vs Cádiz 21:00" tvg-name="Girona vs Cádiz 21:00" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="LaLiga EA sabado 20 ",Girona vs Cádiz 21:00 
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 tvg-id="Cadiz - Barcelona S.21:00" tvg-name="Cadiz - Barcelona S.21:00" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="Eventos LaLiga EA ",Cadiz - Barcelona S.21:00 
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 tvg-id="Las Palmas - Sevilla D.14:00" tvg-name="Las Palmas - Sevilla D.14:00" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="Eventos LaLiga EA ",Las Palmas - Sevilla D.14:00
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 tvg-id="Granada - Alavés D.16:15" tvg-name="Granada - Alavés D16:15" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="Eventos LaLiga EA ",Granada - Alavés D.16:15
+#EXTINF:-1 tvg-id="Getafe vs R.Sociedad 14:00" tvg-name="Getafe vs R.Sociedad 14:00" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="LaLiga EA domingo 21 ",Getafe vs R.Sociedad 14:00
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 tvg-id="Athletic - Villareal D.18:30" tvg-name="Athletic - Villareal D.18:30" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="Eventos LaLiga EA ",Athletic - Villareal D.18:30 
+#EXTINF:-1 tvg-id="Almería vs Villarreal 16:15" tvg-name="Almería vs Villarreal 16:15" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="LaLiga EA domingo 21 ",Almería vs Villarreal 16:15
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 tvg-id="R. Sociedad - Almería D.21:00" tvg-name="R. Sociedad - Almería D.21:00" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="Eventos LaLiga EA ",R. Sociedad - Almería D.21:00 
+#EXTINF:-1 tvg-id="Alavés vs At. Madrid 18:30" tvg-name="Alavés vs At. Madrid 18:30" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="LaLiga EA domingo 21 ",Alavés vs At. Madrid 18:30 
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 tvg-id="Osasuna - Valencia L.21:00" tvg-name="Osasuna - Valencia L.21:00" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="Eventos LaLiga EA ",Osasuna - Valencia L.21:00 
+#EXTINF:-1 tvg-id="R.Madrid vs Barcelona 21:00" tvg-name="R.Madrid vs Barcelona 21:00" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="LaLiga EA domingo 21 ",R.Madrid vs Barcelona 21:00 
+acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#EXTINF:-1 tvg-id="Osasuna - Valencia 21:00" tvg-name="Osasuna - Valencia 21:00" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="LaLiga EA lunes 15 ",Osasuna - Valencia 21:00 
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
 
 
