@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
 
 #EXTINF:-1 tvg-id="Barcelona -#EXTINF:-1 tvg-id="Barcelona - PSG 21:00" tvg-name="Barcelona - PSG 21:00" tvg-logo="https://clipground.com/images/champions-league-logo-png-7.jpg" group-title="1-martes 16  ",Barcelona - PSG 21:00
-acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
-#EXTINF:-1 tvg-id="B. Dortmund - At. Madrid 21:00" tvg-name="B. Dortmund - At. Madrid 21:00" tvg-logo="https://clipground.com/images/champions-league-logo-png-7.jpg" group-title="1-martes 16 ",B. Dortmund - At. Madrid 21:00
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 tvg-id="B. Dortmund - At. Madrid 21:00" tvg-name="B. Dortmund - At. Madrid 21:00" tvg-logo="https://clipground.com/images/champions-league-logo-png-7.jpg" group-title="1-martes 16 ",B. Dortmund - At. Madrid 21:00
+acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 
 #EXTINF:-1 tvg-id="M. City - R. Madrid 21:00" tvg-name="M. City - R. Madrid 21:00" tvg-logo="https://clipground.com/images/champions-league-logo-png-7.jpg" group-title="2-miercoles 17 ",M. City - R. Madrid 21:00
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
