@@ -1,8 +1,8 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
+s#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
 
-#EXTINF:-1 tvg-id="Bayer M. - R. Madrid 21:00" tvg-name="Bayer M. - R. Madrid 21:00" tvg-logo="https://clipground.com/images/champions-league-logo-png-7.jpg" group-title="2- martes 30, miercoles 1 ",Bayer M. - R. Madrid 21:00
+#EXTINF:-1 tvg-id="Bayer M. - R. Madrid 21:00" tvg-name="Bayer M. - R. Madrid 21:00" tvg-logo="https://clipground.com/images/champions-league-logo-png-7.jpg" group-title="2-Semis Champions ",Bayer M. - R. Madrid 21:00
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 tvg-id="Dortmund - PSG 21:00" tvg-name="Dortmund - PSG 21:00" tvg-logo="https://clipground.com/images/champions-league-logo-png-7.jpg" group-title="2- martes 30, miercoles 1 ",Dortmund - PSG 21:00
+#EXTINF:-1 tvg-id="Dortmund - PSG 21:00" tvg-name="Dortmund - PSG 21:00" tvg-logo="https://clipground.com/images/champions-league-logo-png-7.jpg" group-title="2-Semis Champions ",Dortmund - PSG 21:00
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 
 #EXTINF:-1 tvg-id="Athletic vs Granada 21:00" tvg-name="Athletic vs Granada 21:00" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="3-viernes 19",Athletic vs Granada 21:00
