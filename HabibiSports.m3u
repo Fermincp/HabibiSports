@@ -1,6 +1,6 @@
 s#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
 
-#EXTINF:-1 tvg-id="Dortmund - PSG 21:00" tvg-name="Dortmund - PSG 21:00" tvg-logo="https://clipground.com/images/champions-league-logo-png-7.jpg" group-title="Semis Champions ",Dortmund - PSG 21:00
+#EXTINF:-1 tvg-id="PSG - Dortmund M-21:00" tvg-name="PSG - Dortmund M-21:00" tvg-logo="https://clipground.com/images/champions-league-logo-png-7.jpg" group-title="Semis Champions ",PSG - Dortmund M-21:00
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1 tvg-id="R. Madrid - Bayer M. X-21:00" tvg-name="R. Madrid - Bayer M. X-21:00" tvg-logo="https://clipground.com/images/champions-league-logo-png-7.jpg" group-title="Semis Champions ",R. Madrid - Bayer M. X-21:00
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
