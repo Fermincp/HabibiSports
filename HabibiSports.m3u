@@ -3,29 +3,29 @@ s#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/
 #EXTINF:-1 tvg-id="R. Madrid - Dortmund S.21:00" tvg-name="R. Madrid - Dortmund S.21:00" tvg-logo="https://clipground.com/images/champions-league-logo-png-7.jpg" group-title="Final Champions",R. Madrid - Dortmund S.21:00
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 
-#EXTINF:-1 tvg-id="Alavés vs Girona V.21:00" tvg-name="Alavés vs Girona V.21:00" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="LaLiga Jornada 35",Alavés vs Girona V.21:00
-acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-
-#EXTINF:-1 tvg-id="Mallorca vs Las Palmas S.14:00" tvg-name="Mallorca vs Las Palmas S.14:00" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="LaLiga Jornada 35",Mallorca vs Las Palmas S.14:00
-acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 tvg-id="Villarreal vs Sevilla S.16:15" tvg-name="Villarreal vs Sevilla S.16:15" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="LaLiga Jornada 35",Villarreal vs Sevilla S.16:15
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 tvg-id="Granada vs R. Madrid S.18:30" tvg-name="Granada vs R. Madrid S.18:30" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="LaLiga Jornada 35",Granada vs R. Madrid S.18:30 
-acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 tvg-id="Athletic vs Osasuna S.21:00" tvg-name="Athletic vs Osasuna S.21:00" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="LaLiga Jornada 35",Athletic vs Osasuna S.21:00 
+#EXTINF:-1 tvg-id="Osasuna vs Mallorca M.19:30" tvg-name="Osasuna vs Mallorca M.19:30" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="LaLiga Jornada 36",Osasuna vs Mallorca M.19:30
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
-#EXTINF:-1 tvg-id="Cádiz vs Getafe D.14:00" tvg-name="Cádiz vs Getafe D.14:00" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="LaLiga Jornada 35",Cádiz vs Getafe D.14:00
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 tvg-id="At. Madrid vs Celta D.16:15" tvg-name="At. Madrid vs Celta D.16:15" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="LaLiga Jornada 35",At. Madrid vs Celta D.16:15
+#EXTINF:-1 tvg-id="R. Madrid vs Alavés M.21:30" tvg-name="R. Madrid vs Alavés M.21:30" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="LaLiga Jornada 36",R. Madrid vs Alavés M.21:30
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 tvg-id="Valencia vs Rayo D.18:30" tvg-name="Valencia vs Rayo D.18:30" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="LaLiga Jornada 35",Valencia vs Rayo D.18:30 
+#EXTINF:-1 tvg-id="Girona vs Villarreal M.22:00" tvg-name="Girona vs Villarreal M.22:00" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="LaLiga Jornada 36",Girona vs Villarreal M.22:00
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 tvg-id="Betis vs Almería D.21:00" tvg-name="Betis vs Almería D.21:00" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="LaLiga Jornada 35",Betis vs Almería D.21:00 
+#EXTINF:-1 tvg-id="Sevilla vs Cádiz X.19:30" tvg-name="Sevilla vs Cádiz X.19:30" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="LaLiga Jornada 36",Sevilla vs Cádiz X.19:30 
+acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#EXTINF:-1 tvg-id="Vallecano vs Granada X.19:30" tvg-name="Vallecano vs Granada X.19:30" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="LaLiga Jornada 36",Vallecano vs Granada X.19:30 
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
 
-#EXTINF:-1 tvg-id="Barcelona vs R. Sociedad L.21:00" tvg-name="Barcelona vs R. Sociedad L.21:00" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="LaLiga Jornada 35",Barcelona vs R. Sociedad L.21:00 
+#EXTINF:-1 tvg-id="Celta vs Athletic X.22:00" tvg-name="Celta vs Athletic X.22:00" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="LaLiga Jornada 36",Celta vs Athletic X.22:00
+acestream://1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:-1 tvg-id="Getafe vs At. Madrid X.22:00" tvg-name="Getafe vs At. Madrid X.22:00" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="LaLiga Jornada 36",Getafe vs At. Madrid X.22:00
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#EXTINF:-1 tvg-id="Las Palmas vs Betis J.19:30" tvg-name="Las Palmas vs Betis J.19:30" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="LaLiga Jornada 36",Las Palmas vs Betis J.19:30 
+acestream://1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:-1 tvg-id="Almería vs Barcelona J.21:30" tvg-name="Almería vs Barcelona J.21:30" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="LaLiga Jornada 36",Almería vs Barcelona J.21:30 
+acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+
+#EXTINF:-1 tvg-id="R. Sociedad vs Valencia J.22:00" tvg-name="R. Sociedad vs Valencia J.22:00" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="LaLiga Jornada 36",R. Sociedad vs Valencia J.22:00 
+acestream://1960a9be8ae9e8c755330218eac4c5805466290a
 
 
 
