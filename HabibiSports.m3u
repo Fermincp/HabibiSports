@@ -1,6 +1,6 @@
 s#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
 
-#EXTINF:-1 tvg-id="R. Madrid - Dortmund S.21:00" tvg-name="R. Madrid - Dortmund S.21:00" tvg-logo="https://clipground.com/images/champions-league-logo-png-7.jpg" group-title="Final Champions",R. Madrid - Dortmund S.21:00
+#EXTINF:-1 tvg-id="Dortmund - R. Madrid S.21:00" tvg-name="Dortmund - R. Madrid S.21:00" tvg-logo="https://clipground.com/images/champions-league-logo-png-7.jpg" group-title="Final Champions",Dortmund - R. Madrid S.21:00
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 
 #EXTINF:-1 tvg-id="Alavés vs Getafe S.21:00" tvg-name="Alavés vs Getafe S.21:00" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/Logo-La-Liga-Png.png" group-title="LaLiga Jornada 37",Alavés vs Getafe S.21:00
